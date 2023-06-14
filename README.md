@@ -15,14 +15,14 @@ Our home security system boasts the following features:
 ## Installation and Usage
 To install and use the home security system, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/example/home-security-system.git`
-2. Install the required dependencies: `pip install -r requirements.txt`
-3. Create a virtual environment using the following command:
+1. Clone the repository: `git clone https://github.com/srivenkatharsha/Home-Security-System.git`
+2. Create a virtual environment using the following command:
    - For Windows: `python -m venv venv`
    - For macOS/Linux: `python3 -m venv venv`
-4. Activate the virtual environment:
+3. Activate the virtual environment:
    - For Windows: `venv\Scripts\activate`
    - For macOS/Linux: `source venv/bin/activate`
+4. Install the required dependencies: `pip install -r requirements.txt`
 5. Create an environment file named `.env` and add the following contents:
     ```
     BOT_TOKEN=<your_bot_token>
