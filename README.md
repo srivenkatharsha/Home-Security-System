@@ -32,3 +32,6 @@ To install and use the home security system, follow these steps:
 7. Create a folder named "Unknown".
 8. In one terminal, run the following command to start the motion detector script (project root directory): `python SensitiveMotionDetector.py`
 9. In another terminal, run the following command to start the Telegram bot script (project root directory): `python Bot/telegram_bot.py`
+
+## License 
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
